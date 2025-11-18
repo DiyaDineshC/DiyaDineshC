@@ -1,93 +1,137 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Diya+Dinesh!;Flutter+%7C+MERN+%7C+AI+%7C+Fullstack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Diya+Dinesh!;Flutter+%7C+MERN+%7C+AI+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🌸 About Me  
-- 🌱 System Engineer @ Infosys  
-- 🔭 Currently building **Flutter Apps**, **AI/ML projects**, and **MERN full-stack systems**  
-- 🎯 Goal: Become a strong **Full-Stack + AI Developer**  
-- 🐾 Fun fact: I love pets & pens ✨  
-- 💡 Always learning something new!
+- 🔭 Currently building **Flutter**, **AI/ML**, and **MERN** projects  
+- 🎯 Become a strong Full-Stack + AI Developer  
+- 🐾 Fun fact: I love adding creativity wherever possible. 
 
 ---
 
-## 🚀 Skills & Technologies  
+# 🚀 Skills & Technologies  
 
-### 💻 Languages, Frameworks & Tools
+---
+
+## 🎨 Frontend Development  
 <p align="center">
-  
-  <!-- HTML -->
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" width="48"/>
   </a>
 
-  <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" width="48"/>
   </a>
 
-  <!-- Javascript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" width="48"/>
   </a>
 
-  <!-- React -->
   <a href="https://react.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" width="48"/>
   </a>
 
-  <!-- Node -->
+</p>
+
+---
+
+## 🖥️ Backend Development  
+<p align="center">
+
   <a href="https://nodejs.org/en" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
   </a>
 
-  <!-- Express -->
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=express" width="48"/>
   </a>
 
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
-  </a>
 
-  <!-- Flutter -->
+
+</p>
+
+---
+
+## 📱 Mobile App Development  
+<p align="center">
+
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flutter" width="48"/>
   </a>
 
-  <!-- Dart -->
   <a href="https://dart.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=dart" width="48"/>
   </a>
 
-  <!-- Firebase -->
+</p>
+
+---
+
+## 🗄️ Database  
+<p align="center">
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=mysql" width="48"/> 
+ </a>
+  
+
+   
+</p>
+
+
+
+---
+
+## ☁️ Cloud
+<p align="center">
+
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=firebase" width="48"/>
   </a>
 
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" width="48"/>
+</p>
+
+---
+
+## 💡 Programming Languages  
+<p align="center">
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="48"/>
   </a>
 
-  <!-- Git -->
+
+
+</p>
+
+---
+
+## 🛠️ Tools & Others  
+<p align="center">
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" width="48"/>
   </a>
 
-  <!-- GitHub -->
   <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="48"/>
   </a>
 
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+  </a>
+
 </p>
 
-
 ---
+
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -97,12 +141,6 @@
 
 ---
 
-## 🔥 Streak Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DiyaDineshC&theme=radical" height="180"/>
-</p>
-
----
 
 ## 🏆 GitHub Trophies  
 <p align="center">
@@ -123,5 +161,4 @@
 
 ---
 
-### Thanks for visiting! ⭐  
-Feel free to star ⭐ my repositories if you like my work 💖  
+### ⭐ Thanks for visiting!  
