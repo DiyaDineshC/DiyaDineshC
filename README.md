@@ -12,11 +12,11 @@ Welcome to my GitHub! I'm passionate about building full-stack applications, mob
 
 * 🔭 Working on: **MERN Task Manager**, **Crowdsource Travel Itinerary Builder**, **Helmet & License Plate Detection using YOLO**, and **PawPrints (Pet Adoption App)**
 
-* 🌱 Learning: **DSA**, **Flutter**, **Backend APIs**, **Cloud**
+* 🌱 Learning: **DSA**, **ReactJS**, **Flutter**, **Backend APIs**, **Cloud**
 
 * 💬 Ask me about Flutter, MERN, Firebase, Python, APIs
 
-* ✨ Fun fact: I love pens & enjoy building things end-to-end
+* ✨ Fun fact: I enjoy building things end-to-end
 
 ---
 
@@ -24,23 +24,23 @@ Welcome to my GitHub! I'm passionate about building full-stack applications, mob
 
 ### ⚡ Frontend Development
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react)]
 
 ### 📱 Mobile App Development
 
-[![Mobile](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+[![Mobile](https://skillicons.dev/icons?i=flutter,dart)]
 
 ### 🛠 Backend Development
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,python)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,python)]
 
 ### 🗄 Databases
 
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql)]
 
 ### 🔧 Tools & Platforms
 
-[![Tools](https://skillicons.dev/icons?i=firebase,git,github,vscode,postman,figma)](httpsillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=firebase,git,github,vscode,postman)]
 
 ---
 
