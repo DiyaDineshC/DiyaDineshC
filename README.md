@@ -1,79 +1,127 @@
-# 👋 Hi, I'm Diya
-
-### 💡 Aspiring Software Developer | Flutter & MERN Stack Enthusiast | ML/AI Learner
-
-Welcome to my GitHub! I'm passionate about building full-stack applications, mobile apps, and real-time AI/ML systems. I enjoy creating clean, user-focused solutions and love learning new technologies.
-
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science Engineer
-
-* 🔭 Working on: **MERN Task Manager**, **Crowdsource Travel Itinerary Builder**, **Helmet & License Plate Detection using YOLO**, and **PawPrints (Pet Adoption App)**
-
-* 🌱 Learning: **DSA**, **ReactJS**, **Flutter**, **Backend APIs**, **Cloud**
-
-* 💬 Ask me about Flutter, MERN, Firebase, Python, APIs
-
-* ✨ Fun fact: I enjoy building things end-to-end
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Diya+Dinesh!;Flutter+%7C+MERN+%7C+AI+%7C+Fullstack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### ⚡ Frontend Development
-
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react)]
-
-### 📱 Mobile App Development
-
-[![Mobile](https://skillicons.dev/icons?i=flutter,dart)]
-
-### 🛠 Backend Development
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,python)]
-
-### 🗄 Databases
-
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql)]
-
-### 🔧 Tools & Platforms
-
-[![Tools](https://skillicons.dev/icons?i=firebase,git,github,vscode,postman)]
+## 🌸 About Me  
+- 🌱 System Engineer @ Infosys  
+- 🔭 Currently building **Flutter Apps**, **AI/ML projects**, and **MERN full-stack systems**  
+- 🎯 Goal: Become a strong **Full-Stack + AI Developer**  
+- 🐾 Fun fact: I love pets & pens ✨  
+- 💡 Always learning something new!
 
 ---
 
-## 📘 Featured Projects
+## 🚀 Skills & Technologies  
 
-### 🐾 PawPrints — Pet Adoption & Rescue App
+### 💻 Languages, Frameworks & Tools
+<p align="center">
+  
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="48"/>
+  </a>
 
-Flutter app with Firebase authentication, geolocation, and rescue posts.
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="48"/>
+  </a>
 
-### 🚦 Real-Time Helmet & License Plate Detection
+  <!-- Javascript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="48"/>
+  </a>
 
-YOLO + Flask + Firebase + Flutter mobile interface.
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="48"/>
+  </a>
 
-### 🧳 Crowd-sourced Travel Itinerary Builder
+  <!-- Node -->
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
+  </a>
 
-MERN Stack app where users build and share itineraries.
+  <!-- Express -->
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" width="48"/>
+  </a>
 
-### ✔️ Task Manager App (MERN)
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
+  </a>
 
-Full CRUD, authentication, priority + due dates UI.
+  <!-- Flutter -->
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" width="48"/>
+  </a>
+
+  <!-- Dart -->
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dart" width="48"/>
+  </a>
+
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" width="48"/>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="48"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="48"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  </a>
+
+</p>
+
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiyaDineshC\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaDineshC\&layout=compact\&theme=radical)
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiyaDineshC&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaDineshC&layout=compact&theme=radical" height="170"/>
+</p>
 
 ---
 
-## 📬 Connect With Me
+## 🔥 Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DiyaDineshC&theme=radical" height="180"/>
+</p>
 
-* 🔗 LinkedIn: *[www.linkedin.com/in/diya-dinesh-c](http://www.linkedin.com/in/diya-dinesh-c)*
+---
 
-Thanks for visiting 💙
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiyaDineshC&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 💌 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/diya-dinesh-c/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+  <a href="mailto:diyadineshsd8@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
+</p>
+
+---
+
+### Thanks for visiting! ⭐  
+Feel free to star ⭐ my repositories if you like my work 💖  
